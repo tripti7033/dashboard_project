@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+ 
+ span{
+     display:flex;
+   gap:5px;
+   justify-content: center;
+   align-items: center;
+ 
+ }
+ 
+ .filterBtn{  
+     height:1.7rem;
+      width:6rem;
+      background:white;
+       border: 0.1px solid black;
+      margin-top: 2rem;
+ }
+ 
